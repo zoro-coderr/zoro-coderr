@@ -1,9 +1,7 @@
 # 💫 Hi, I'm Zoro 👋
 
-I'm a passionate **Engineering Student & AI Enthusiast** with a love for **Fitness Tech & Web Development**.  
-I enjoy building projects that combine technology with real-world applications.
-
-![AI Fitness GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+I'm a passionate **Engineering Student & AI Enthusiast** with a focus on **Fitness Tech & Web Development**.  
+I love building projects that combine technology with real-world applications.
 
 ---
 
@@ -29,10 +27,9 @@ I enjoy building projects that combine technology with real-world applications.
 ---
 
 ## 🚀 Projects
-- [**AI Fitness Coach**](https://github.com/zoro-coderr/ai-fitness-coach) – Your personal AI workout planner 🤖💪  
-  ![Fitness GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-- [**Portfolio Website**](https://github.com/zoro-coderr/portfolio) – Professional showcase 🌐  
-- [**Java Mini Projects**](https://github.com/zoro-coderr/java-projects) – Fun & learning Java projects 📚
+- [**AI Fitness Coach**](https://github.com/zoro-coderr/ai-fitness-coach) – Personalized AI-powered workout planner  
+- [**Portfolio Website**](https://github.com/zoro-coderr/portfolio) – My professional showcase  
+- [**Java Mini Projects**](https://github.com/zoro-coderr/java-projects) – Fun & learning Java programs  
 
 ---
 
@@ -43,9 +40,9 @@ I enjoy building projects that combine technology with real-world applications.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=zoro-coderr&theme=radical&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=zoro-coderr&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoro-coderr&theme=radical&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=zoro-coderr&theme=dark&show_icons=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=zoro-coderr&theme=dark)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoro-coderr&theme=dark&layout=compact)
 
 ---
 
@@ -55,9 +52,7 @@ I enjoy building projects that combine technology with real-world applications.
 ---
 
 ### ✍️ Quote
-*"Fitness is like coding: consistency beats intensity."* 💪💻  
-
-![Motivation GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+*"Consistency is the key — in coding and in fitness."* 💪💻  
 
 ---
 

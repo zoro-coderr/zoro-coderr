@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Zoro 👋
+# 💫 Hi, I'm Aman 👋
 
 I'm a passionate **Engineering Student & AI Enthusiast** with a focus on **Fitness Tech & Web Development**.  
 I love building projects that combine technology with real-world applications.
